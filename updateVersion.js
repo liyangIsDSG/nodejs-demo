@@ -1,6 +1,6 @@
 const fs = require('fs-extra')
 
-// node进程中实例的参数
+// node进程中实例的type参数的值
 console.log(process.env.npm_config_type)
 
 // npm 入参校验

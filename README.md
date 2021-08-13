@@ -1,5 +1,5 @@
 # nodejs-demo
-一个简易的用来升级package.json里版本的脚本的 demo
+一个简易的用来升级package.json里版本的脚本的 demo（读写文件 demo）
 
 ## 运行环境
 需要引入 fs-extra 包，版本什么的都无所谓
